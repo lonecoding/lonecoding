@@ -1,1 +1,1 @@
-Building web applications, network rules, and developer tools.
+Network rules, and developer tools.
